@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Batkataa
-- 👀 I like coding scripts with my friend @JustStoyanov
-- 🌱 I’m currently learning
-- 📫 You can contact me on discord Bα†κα†α#0448
+- 👀 I like coding scripts
+- 📫 You can contact me on discord batkata_
